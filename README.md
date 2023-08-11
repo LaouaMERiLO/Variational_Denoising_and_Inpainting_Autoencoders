@@ -29,7 +29,7 @@ inpainting autoencoders
 variational autoencoders
 ![var](https://github.com/LaouaMERiLO/Variational_Denoising_and_Inpainting_Autoencoders/assets/86894912/318ea30d-d7d6-49c8-bbaf-720a83ee5302)
 
-fger
+
 
 
 
