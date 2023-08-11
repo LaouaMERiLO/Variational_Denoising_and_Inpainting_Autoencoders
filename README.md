@@ -7,3 +7,11 @@ This project serves as a comprehensive exploration of different types of autoenc
 3. Deblurring Autoencoders
 4. Inpainting Autoencoders
 
+
+## Key Features
+
+- Image denoising and deblurring using autoencoders.
+- Image inpainting using autoencoders to fill in missing parts.
+- Latent space interpolation and exploration for variational autoencoders.
+- Training with reconstruction loss and a Kullback-Leibler (KL) divergence term.
+
